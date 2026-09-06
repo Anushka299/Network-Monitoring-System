@@ -84,6 +84,11 @@ The project consists of three main components:
 ```
 
 ---
+# Network Topology
+
+![Network Topology](architecture/Network_Topology.png)
+
+---
 
 # Technologies Used
 
