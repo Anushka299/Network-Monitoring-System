@@ -537,16 +537,15 @@ Network-Monitoring-System/
 │
 ├── README.md
 │
-├── documentation/
-│   ├── installation.md
-│   ├── zabbix-configuration.md
-│   ├── snmp-configuration.md
-│   ├── syslog-configuration.md
-│   └── slack-integration.md
-│
 ├── architecture/
-│   ├── network-topology.png
-│   └── system-architecture.png
+│   ├── Network_Topology.png
+│   └── System-Architecture.png
+|
+├── documentation/
+│   ├── add_a_host.md
+│   ├── create_item_and_trigger.md
+│   ├── integrating_slack_media_type.md
+│   └── zabbix_and_syslog_installation.md
 │
 ├── screenshots/
 │   ├── zabbix-dashboard.png
@@ -557,12 +556,7 @@ Network-Monitoring-System/
 │   └── slack-alert.png
 │
 ├── zabbix/
-│   ├── templates/
-│   ├── triggers/
-│   └── configurations/
-│
-├── syslog/
-│   └── rsyslog-configurations/
+│   └── templates/
 │
 └── 
 ```
