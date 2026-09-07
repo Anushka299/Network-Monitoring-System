@@ -548,12 +548,16 @@ Network-Monitoring-System/
 │   └── zabbix_and_syslog_installation.md
 │
 ├── screenshots/
-│   ├── zabbix-dashboard.png
-│   ├── host-monitoring.png
-│   ├── problems.png
-│   ├── syslog-server.png
-│   ├── login-trigger.png
-│   └── slack-alert.png
+│   ├── Link_down_ss.png
+|   ├── incomming_syslog_mzg_ss.png
+|   ├── latest_syslog_data_ss.png
+│   ├── login_atmp_ss.png
+│   ├── monitored_device_ss.png
+│   ├── multiple_login_attemp_ss.png
+│   ├── multiple_login_trigger_ss.png
+|   ├── server_usage_1_ss.png
+|   ├── server_usage_ss.png
+│   └── zabbix_dashboard_ss.png
 │
 ├── zabbix/
 │   └── templates/
