@@ -41,47 +41,9 @@ The project consists of three main components:
 2. Centralized Syslog collection and event monitoring.
 3. Real-time alert notifications.
 
-```text
-                            NETWORK INFRASTRUCTURE
 
-                ┌──────────────┬──────────────┬──────────────┐
-                │              │              │              │
-            Firewalls      Servers   Virtual Machines  Wireless Devices (AP)
-                │              │              │              │
-                └──────────────┴──────────────┴──────────────┘
-                                      │
-                         ┌────────────┴────────────┐
-                         │                         │
-                        SNMP                     Syslog
-                         │                         │
-                         ▼                         ▼
-                ┌─────────────────┐       ┌──────────────────┐
-                │                 │       │                  │
-                │     Zabbix      │       │   Linux Syslog   │
-                │   Monitoring    │       │      Server      │
-                │                 │       │    (rsyslog)     │
-                └────────┬────────┘       └────────┬─────────┘
-                         │                         │
-                         │                  Log Collection
-                         │                  & Monitoring
-                         │                         │
-                         └────────────┬────────────┘
-                                      │
-                                      ▼
-                              ┌───────────────┐
-                              │ Zabbix Events │
-                              │   & Triggers  │
-                              └───────┬───────┘
-                                      │
-                         ┌────────────┴────────────┐
-                         │                         │
-                         ▼                         ▼
-                ┌───────────────┐          ┌───────────────┐
-                │    Zabbix     │          |     Slack     |
-                │   Dashboard   │          | Notifications |
-                └───────────────┘          └───────────────┘
+![System Architecture](architecture/System_Architecture.png)
                 
-```
 
 ---
 # Network Topology
