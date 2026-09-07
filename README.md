@@ -418,7 +418,7 @@ Slack Notification
 The following components are required for the implementation:
 
 - Linux Server
-- Zabbix Server and Agent
+- Zabbix Server, Agent and Fronend
 - Web Server (Apache)
 - Database for Zabbix(MySQL)
 - SNMP and Syslog Capable Network devices
