@@ -43,7 +43,7 @@ Navigate to Data Collection > Host > create Host
 ## Step 2: Configure Host Information
 
 Then we have to configure basic informations like:
----
+
    **Host name** - unique name used to identify the device in Zabbix.
 
    **Visible name** - same as the Host name by default.
@@ -90,9 +90,10 @@ Go to the Monitoring > Latest Data and verify the monitoring data are collecing 
 
 # Troubleshooting
 
-If device is not showing as correctly monitoring;
-    - check the connectivity between device and zabbix server. Execute ping from the server side.
-    - Test SNMP communication from the zabbix server. Used "snmpwalk -<v2c -c <community_string> <device_IP>" command by given correct SNMP version, community string and IP address. Following screenshot provide an example.
+If device is not showing as correctly monitoring:
+
+   - check the connectivity between device and zabbix server. Execute ping from the server side.
+   - Test SNMP communication from the zabbix server. Used "snmpwalk -<v2c -c <community_string> <device_IP>" command by given correct SNMP version, community string and IP address. Following screenshot provide an example.
 
    ![SNMP Data Receiving](../screenshots/SNMP_data_ss.png)
 
