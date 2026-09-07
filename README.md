@@ -581,47 +581,37 @@ Following screenshot shows the monitored network devices in the NMS.
 
 ---
 
-## Problems and Triggers
+## Created Items and Triggers
 
-Add screenshots showing active problems and configured triggers.
+Following screenshots shows the created trigger for detect multiple logins attempts for firewall.
 
-![Problems and Triggers](screenshots/problems.png)
+![Trigger configurations](screenshots/multiple_login_trigger_ss.png)
+![Trigger created](screenshots/multiple_login_attemp_ss.png)
 
 ---
 
 ## Syslog Server
 
-Add a screenshot showing incoming Syslog messages on the Linux server.
+Following screenshot shows incoming Syslog messages on the Linux server.
 
-```text
-screenshots/syslog-server.png
-```
-
-![Syslog Server](screenshots/syslog-server.png)
+![Syslog Server](screenshots/incomming_syslog_mzg_ss.png)
 
 ---
 
 ## Login Attempt Detection
 
-Add a screenshot showing the Zabbix trigger or event generated from a login-related Syslog message.
+Screenshot showing the Zabbix trigger or event generated from a login-related Syslog message.
 
-```text
-screenshots/login-trigger.png
-```
-
-![Login Attempt Trigger](screenshots/login-trigger.png)
+![Login Attempt Trigger](screenshots/.png)
 
 ---
 
 ## Slack Notifications
 
-Add a screenshot showing a notification sent from Zabbix to Slack.
+Following screenshots shows a notification sent from Zabbix to Slack.
 
-```text
-screenshots/slack-alert.png
-```
-
-![Slack Alert](screenshots/slack-alert.png)
+![Slack Alert](screenshots/login_atmp_ss.png)
+![Slack Alert](screenshots/Link_down_ss.png)
 
 ---
 
