@@ -567,35 +567,23 @@ Network-Monitoring-System/
 
 ## Zabbix Dashboard
 
-Add a screenshot showing the centralized monitoring dashboard.
+Following screenshot showing the centralized monitoring dashboard.
 
-```text
-screenshots/zabbix-dashboard.png
-```
-
-![Zabbix Dashboard](screenshots/zabbix-dashboard.png)
+![Zabbix Dashboard](screenshots/zabbix_dashboard_ss.png)
 
 ---
 
 ## Network Device Monitoring
 
-Add screenshots showing monitored network devices.
+Following screenshot shows the monitored network devices in the NMS.
 
-```text
-screenshots/host-monitoring.png
-```
-
-![Network Device Monitoring](screenshots/host-monitoring.png)
+![Network Device Monitoring](screenshots/monitored_device_ss.png)
 
 ---
 
 ## Problems and Triggers
 
 Add screenshots showing active problems and configured triggers.
-
-```text
-screenshots/problems.png
-```
 
 ![Problems and Triggers](screenshots/problems.png)
 
