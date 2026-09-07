@@ -549,6 +549,7 @@ Network-Monitoring-System/
 │
 ├── screenshots/
 │   ├── Link_down_ss.png
+|   ├── SNMP_data_ss.png
 |   ├── incomming_syslog_mzg_ss.png
 |   ├── latest_syslog_data_ss.png
 │   ├── login_atmp_ss.png
