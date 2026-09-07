@@ -94,7 +94,7 @@ If device is not showing as correctly monitoring;
     - check the connectivity between device and zabbix server. Execute ping from the server side.
     - Test SNMP communication from the zabbix server. Used "snmpwalk -<v2c -c <community_string> <device_IP>" command by given correct SNMP version, community string and IP address. Following screenshot provide an example.
 
-   ![SNMP Data Recieving](screenshots/SNMP_data_ss.png)
+   ![SNMP Data Receiving](../screenshots/SNMP_data_ss.png)
 
    - If firewalla are enabled verify required ports are allowed.
    - checks the zabbix server logs for communicating or configuration errors.
