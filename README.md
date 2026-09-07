@@ -481,7 +481,7 @@ General requirements include:
 
 The same Linux machine which runs the zabbix server is configured as the centralized Syslog Server.
 
-The server uses **rsyslog** to receive Syslog messages from network devices. In this implementation I store the FortiGate logs in seperate log file by filtering it using serail number.
+The server uses **rsyslog** to receive Syslog messages from network devices. In this implementation I store the FortiGate logs in seperate log file by filtering it using device id.
 
 General configuration requirements include:
 
