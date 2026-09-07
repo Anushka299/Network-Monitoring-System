@@ -32,7 +32,7 @@ Before adding a host to Zabbix, ensure the following requirements are met:
 
 ---
 
-# Step 1: Access the Zabbix Web Interface
+## Step 1: Access the Zabbix Web Interface
 
 Log in to the Zabbix frontend using autherized credentials.
 
@@ -40,7 +40,7 @@ Navigate to Data Collection > Host > create Host
 
 ---
 
-# Step 2: Configure Host Information
+## Step 2: Configure Host Information
 
 Then we have to configure basic informations like:
 ---
@@ -56,7 +56,7 @@ Then we have to configure basic informations like:
 
 ---
 
-# Step 3: Configure Monitoring Settings
+## Step 3: Configure Monitoring Settings
 
 Review and configure additional settings if required.
 
@@ -70,19 +70,19 @@ These may include:
 
 ---
 
-# Step 4: Save the Host
+## Step 4: Save the Host
 
 Click add button to add the host to zabbix host list.
 
 ---
 
-# Step 5: Verify Host Availability
+## Step 5: Verify Host Availability
 
 Go to Monitoring > Hosts and verify if the host availability status is indicate in green color, based on SNMP or zabbix agent. Also we can execute ping if we enable globale script execution from zabbix serevr configurations.
 
 ---
 
-# Step 6: Verify Collected Data and Triggers
+## Step 6: Verify Collected Data and Triggers
 
 Go to the Monitoring > Latest Data and verify the monitoring data are collecing or not. And go to the Data collection > Host and verify the triggers from assign template are active or not.
 
