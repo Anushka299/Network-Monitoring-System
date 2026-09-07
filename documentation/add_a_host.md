@@ -61,12 +61,13 @@ Then we have to configure basic informations like:
 Review and configure additional settings if required.
 
 These may include:
-    - Monitoring enable/disable settings
-    - Inventory mode
-    - Tags (can use to organizing events and alerts)
-    - Encryption
-    - Host interface
-    - Custom macros
+
+  - Monitoring enable/disable settings
+  - Inventory mode
+  - Tags (can use to organizing events and alerts)
+  - Encryption
+  - Host interface
+  - Custom macros
 
 ---
 
