@@ -546,6 +546,8 @@ Following screenshot shows the monitored network devices in the NMS.
 
 ![Network Device Monitoring](screenshots/monitored_device_ss.png)
 
+![Network Device Monitoring](screenshots/NMS_host_ss.png)
+
 ---
 
 ## Created Items and Triggers
@@ -553,6 +555,7 @@ Following screenshot shows the monitored network devices in the NMS.
 Following screenshots shows the created trigger for detect multiple logins attempts for firewall.
 
 ![Trigger configurations](screenshots/multiple_login_trigger_ss.png)
+
 ![Trigger created](screenshots/multiple_login_attemp_ss.png)
 
 ---
@@ -562,6 +565,10 @@ Following screenshots shows the created trigger for detect multiple logins attem
 Following screenshot shows incoming Syslog messages on the Linux server.
 
 ![Syslog Server](screenshots/incomming_syslog_mzg_ss.png)
+
+Syslog enables from the FW side
+
+![Syslog_conf](screenshots/syslog_enabling_ss.png)
 
 ---
 
@@ -578,7 +585,14 @@ Screenshot showing the Zabbix trigger or event generated from a login-related Sy
 Following screenshots shows a notification sent from Zabbix to Slack.
 
 ![Slack Alert](screenshots/login_atmp_ss.png)
+
 ![Slack Alert](screenshots/Link_down_ss.png)
+
+## Host Dashboard
+
+Following screenshot shows the dashboard of the fortigate FW host which provide from the template we link to that host.
+
+![FW_NMS_Dashboard](screenshots/fortigate_dashboard_ss.png)
 
 ---
 
