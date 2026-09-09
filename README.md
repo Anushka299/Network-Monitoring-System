@@ -580,7 +580,7 @@ Screenshot showing the Zabbix trigger created using the login-related Syslog mes
 
 Configuration of failed login attempt which captured logins via the FW GUI.
 
-![Login Attempt Triggers](screenshots/login_atmp_ss.png)
+![Login Attempt Triggers](screenshots/login_failed_ss.png)
 
 ---
 
