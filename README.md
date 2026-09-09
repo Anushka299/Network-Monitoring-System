@@ -574,9 +574,13 @@ Syslog enables from the FW side
 
 ## Login Attempt Detection
 
-Screenshot showing the Zabbix trigger or event generated from a login-related Syslog message.
+Screenshot showing the Zabbix trigger created using the login-related Syslog message.
 
-![Login Attempt Trigger](screenshots/.png)
+![Login Attempt Triggers](screenshots/created_syslog_trig_ss.png)
+
+Configuration of failed login attempt which captured logins via the FW GUI.
+
+![Login Attempt Triggers](screenshots/login_atmp_ss.png)
 
 ---
 
