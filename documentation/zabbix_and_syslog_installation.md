@@ -12,7 +12,7 @@ From thire we can select the zabbix version to installed, OS distribution we use
 
 After selecting those as requirements, we can follow the zabbix installation process they provided.
 
-## Syslog Server Setup
+### Syslog Server Setup
 
 First we need to install a syslog utility like ***Rsyslog*** or ***Syslog-ng***. For my setup I used ***Rsyslog*** and use command "apt install rsyslog" to install it.
 
