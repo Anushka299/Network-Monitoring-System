@@ -648,7 +648,7 @@ Through this project, I gained hands-on experience in:
 
 # Project Status
 
-🟢 **Active Development**
+**Active Development**
 
 | Project Phase | Status |
 |---|---|
