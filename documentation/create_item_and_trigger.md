@@ -55,7 +55,7 @@ If item is not collecting data, check the followings;
   - Zabbix agent status of the host
   - Item key configurations
 
-And also if your item get logs from linux log file, make sure that zabbix user has the permissions to read that file.
+And also when your item get logs from linux log file, make sure that zabbix user has the permissions to read that file.
 
 If trigger is not activating, check the followings;
 
