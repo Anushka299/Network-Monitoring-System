@@ -3,7 +3,9 @@
 ### Overview
 
 This document demonstrates how I integrate NMS with slack notification system
+
 ---
+
 Basically I use script method for creating media type for slack notification intrigation. Also we can use webhook type but it is some what complex that this.
 
 #### step 1: Creating Slack channel
