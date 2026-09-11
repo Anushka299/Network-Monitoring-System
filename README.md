@@ -510,6 +510,24 @@ Network-Monitoring-System/
 │   └── zabbix_and_syslog_installation.md
 │
 ├── screenshots/
+|   ├── slack
+|   |   ├── Action_ss.png
+|   |   ├── Bot_reinstall_ss.png
+|   |   ├── Bot_verify_ss.png
+|   |   ├── Slack_about_int_ss.png
+|   |   ├── Slack_app_create_ss.png
+|   |   ├── Slack_channel_create_ss.png
+|   |   ├── Slack_permission_2_ss.png
+|   |   ├── Slack_permission_ss.png
+|   |   ├── Slack_script_ss.png
+|   |   ├── action_trigger_ss.png
+|   |   ├── configure_media_type_ss.png
+|   |   ├── creating_media_type_ss.png
+|   |   ├── operation_details_ss.png
+|   |   ├── sending_alerts_media_ss.png
+|   |   ├── user_creation_for_media_ss.png
+|   |   └── user_media_conf_ss.png
+|   |
 │   ├── Link_down_ss.png
 |   ├── SNMP_data_ss.png
 |   ├── incomming_syslog_mzg_ss.png
@@ -523,6 +541,7 @@ Network-Monitoring-System/
 │   └── zabbix_dashboard_ss.png
 │
 ├── zabbix/
+|   ├── Config/
 │   └── templates/
 │
 └── 
